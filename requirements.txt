@@ -9,3 +9,5 @@ qrcode
 pillow
 # The pymssql project has been discontinued.
 pymssql<3.0
+pip3 install
+python3 setup.py
